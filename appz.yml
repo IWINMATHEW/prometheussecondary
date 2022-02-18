@@ -21,7 +21,7 @@ volumes:
   - claim: prometheussecondary-data
     mount: /appz/data
     name: data
-    size: 50Gi
+    size: 5Gi
   
 properties:
     revision : 65
