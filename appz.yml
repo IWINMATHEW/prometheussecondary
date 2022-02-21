@@ -22,7 +22,7 @@ volumes:
     mount: /appz/data
     name: data
     size: 5Gi
-    matchlabels: false
+    
   
 properties:
     revision : 77
